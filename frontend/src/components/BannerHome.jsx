@@ -1,6 +1,6 @@
 import React, { useEffect ,useRef} from 'react'
 import {bannerHomeStyles } from '../assets/dummyStyles'
-import video from '../assets/bannerVideo.mp4';
+import video from '../assets/bannervideo.mp4';
 import Navbar from './Navbar'
 import BL1 from '../assets/BL1.png'
 import BM1 from '../assets/BM1.png'
